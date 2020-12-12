@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.6.4",
+    "@tailwindcss/typography": "^0.3.1",
+    "autoprefixer": "^10.0.4",
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-gtm": "^0.1.1",
+    "postcss": "^8.1.13",
+    "postcss-import": "^13.0.0",
+    "postcss-preset-env": "^6.7.0"
+  },
+  "devDependencies": {
+    "gridsome-plugin-tailwindcss": "^4.1.1",
+    "tailwindcss": "^2.0.1"
+  }
+}
