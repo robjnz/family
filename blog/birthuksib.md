@@ -2,6 +2,8 @@
 title: How to a find a record of births of siblings online in England and Wales
 excerpt:
 date: 2020-12-05
+tags: -uk
+author: robin
 ---
 
 ## Searching For records of Birth of siblings in England and Wales

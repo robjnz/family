@@ -2,6 +2,8 @@
 title: How to a find a record of births online in England and Wales
 excerpt:
 date: 2020-12-05
+tags: -uk
+author: robin
 
 ---
 

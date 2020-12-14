@@ -10,7 +10,10 @@
         </p>
       </header>
 
-      <main class="prose-sm blog-card overflow-auto" v-html="$page.post.content"></main>
+      <main
+        class="prose-sm blog-card overflow-auto"
+        v-html="$page.post.content"
+      ></main>
     </article>
   </Layout>
 </template>
@@ -43,25 +46,19 @@ article > header {
 </style>
 
 <script>
-
 export default {
   metaInfo: {
     title: "Posts",
     meta: [
       {
         name: "description",
-        content:
-          "Blog posts",
+        content: "Blog posts",
       },
     ],
   },
-  components: {
-    
-    
-  },
+  components: {},
 };
 </script>
-
 
 <page-query>
 query Post ($path: String!) {
@@ -71,6 +68,8 @@ query Post ($path: String!) {
     date (format: "MMMM D, YYYY")
     timeToRead
     content
+    tags
+    author
   }
 }
 </page-query>
