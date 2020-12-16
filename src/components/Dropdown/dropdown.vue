@@ -1,5 +1,5 @@
 <template>
-  <div class="mb-40">
+  <div class="mb-48">
     <br />
       <div class="border-b-4 border-gray-200"></div>
       <br />

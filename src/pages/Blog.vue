@@ -36,6 +36,8 @@ query {
         path
         tags
         author
+        cover_image
+        flag
       }
     }
   }

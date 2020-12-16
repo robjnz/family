@@ -36,7 +36,7 @@
 
           <br />
 
-          <g-link class="text-white hover:text-yellow-500" to="/Jewish/usa">
+          <g-link class="text-white hover:text-yellow-500" to="/Jewish/america">
             Jewish
           </g-link>
         </li>

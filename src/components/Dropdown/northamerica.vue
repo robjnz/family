@@ -22,20 +22,21 @@
       class="bg-white border rounded-sm transform scale-0 group-hover:scale-100 absolute 
   transition duration-150 ease-in-out origin-top min-w-32"
     >
-    
-
       <li class="rounded-sm px-3 py-1 hover:bg-gray-100">
-        <g-link class="text-gray-900 hover:text-yellow-600" to="/Northamerica/canadageneral"
+        <g-link
+          class="text-gray-900 hover:text-yellow-600"
+          to="/Northamerica/canadageneral"
           >Canada</g-link
         >
       </li>
 
-        <li class="rounded-sm px-3 py-1 hover:bg-gray-100">
-        <g-link class="text-gray-900 hover:text-yellow-600" to="/Northamerica/americangeneral"
+      <li class="rounded-sm px-3 py-1 hover:bg-gray-100">
+        <g-link
+          class="text-gray-900 hover:text-yellow-600"
+          to="/Northamerica/americangeneral"
           >USA</g-link
         >
       </li>
-
     </ul>
   </div>
 </template>
