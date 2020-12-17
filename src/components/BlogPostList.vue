@@ -4,7 +4,6 @@
     class="column centre flex-1 px-6 py-14 overflow-auto"
   >
     <div class="work-card mb-6" v-for="post in posts" :key="post.node.id">
-      
       <h1 class="text-red-900 text-2xl">
         <g-image
           class="h-24 w-24 inline-block"
@@ -20,11 +19,11 @@
       <p class="text-red-900 text-xl">Author: {{ post.node.author }}</p>
 
       <p class="text-red-900 text-2xl">
-         <g-link to="/europe/britishgeneral">
-        <g-image
-          class="h-10 w-12 inline-block"
-          alt="flag"
-          :src="post.node.flag"
+        <g-link to="/europe/britishgeneral">
+          <g-image
+            class="h-10 w-12 inline-block"
+            alt="flag"
+            :src="post.node.flag"
         /></g-link>
 
         {{ post.node.tags }}
