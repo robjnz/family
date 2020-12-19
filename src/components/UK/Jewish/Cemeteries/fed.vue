@@ -3,7 +3,7 @@
 
 
 
-<table class="table-auto overflow-auto text-center">
+<table class="table-auto overflow-auto text-left">
   <thead>
 
       

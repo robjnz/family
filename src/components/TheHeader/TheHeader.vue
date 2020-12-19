@@ -60,6 +60,14 @@
         >
           Australasia
         </g-link>
+
+        <g-link
+          to="/caribbean"
+          class="block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
+        >
+          Caribbean
+        </g-link>
+
         <g-link
           to="/europe"
           class="block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
