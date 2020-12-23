@@ -22,8 +22,6 @@
 <script>
 import barbados from "@/components/Caribbean/barbados";
 import bermuda from "@/components/Caribbean/bermuda";
-
-
 import dropdown from "@/components/Dropdown/dropdown";
 
 export default {
