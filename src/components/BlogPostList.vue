@@ -26,6 +26,12 @@
             :src="post.node.flag"
         /></g-link>
 
+         <g-image
+            class="h-10 w-12 inline-block ml-6"
+            alt="religion"
+            :src="post.node.religion"
+        />
+
         {{ post.node.tags }}
       </p>
 

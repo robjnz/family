@@ -38,6 +38,7 @@ query {
         author
         cover_image
         flag
+        religion
       }
     }
   }

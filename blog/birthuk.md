@@ -2,13 +2,15 @@
 title: How to a find a record of births online in England and Wales
 excerpt:
 date: 2020-12-05
-tags: -uk
+tags: uk, birth
 author: robin
 flag: https://res.cloudinary.com/dzhbfdfa5/image/upload/v1608138255/uk-flag_fxtdvo.jpg
 cover_image: https://res.cloudinary.com/dzhbfdfa5/image/upload/v1608145062/storkbaby_a2k5yb.jpg
+religion: https://res.cloudinary.com/dzhbfdfa5/image/upload/v1608724111/square_odtquo.png
+
 ---
 
-## Searching For records of Birth in England and Wales
+## Searching for records of Birth in England and Wales
 
 Their are many websites that are free to use for family history research.
 

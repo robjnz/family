@@ -2,15 +2,16 @@
 title: How to a find a record of marriage online in England and Wales
 excerpt:
 date: 2020-12-06
-tags: -uk
+tags: uk, marriage
 author: robin
 flag: https://res.cloudinary.com/dzhbfdfa5/image/upload/v1608138255/uk-flag_fxtdvo.jpg
 cover_image: https://res.cloudinary.com/dzhbfdfa5/image/upload/v1608144859/wedding_jjifhm.png
+religion: https://res.cloudinary.com/dzhbfdfa5/image/upload/v1608724111/square_odtquo.png
 
 
 ---
 
-## Searching For records of Marriage's in England and Wales
+## Searching for records of Marriage's in England and Wales
 
 Their are many websites that are free to use for family history research.
 
