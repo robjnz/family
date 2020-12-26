@@ -1,7 +1,8 @@
 <template>
-<div class="p-2 bg-teal-500 w-full h-full flex">
-<h1 class="text-left">  © 2020 Family History</h1>
-  <!--
+  <div class="p-2 bg-teal-500 w-full h-full flex">
+    <h1 class="text-left">© 2020 Family History</h1>
+  
+    <!--
    <g-link href="https://bit.ly/3fW92ZK" target="_blank"
       ><g-image
         src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_40,w_40/v1557874167/twitter_i92pn9.png"
@@ -17,13 +18,19 @@
         src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_30,w_30/v1570791420/instagram_txv2hp.jpg"
         alt = "instagram@visitlondon247"
     /></g-link>
-    <g-link href="https://bit.ly/2QA5McB" target="_blank"
+     <g-link class="ml-10 display:inline-grid" href="https://bit.ly/2QA5McB" target="_blank"
       ><g-image
         src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_30,w_30/v1573108008/pintress_lo8wth.png"
         alt = "printress@visitlonson247"
     /></g-link>
+-->
+    
+       <g-link class="ml-10  w-6 display:inline-grid" href="http://bit.ly/3nS0tUP" target="_blank"
+      ><g-image
+        src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1608989313/youtube_k4uh6z.jpg"
+        alt = "youtube"
+    /></g-link>
 
-    -->
+      
   </div>
 </template>
-

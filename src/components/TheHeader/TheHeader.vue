@@ -97,6 +97,13 @@
       </g-link>
 
       <g-link
+        to="/video"
+        class="block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
+      >
+        video
+      </g-link>
+
+      <g-link
         to="/contact"
         class="block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
       >
