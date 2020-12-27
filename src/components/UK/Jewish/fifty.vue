@@ -13,7 +13,7 @@
       <br />
       <p>The London Jewish <br />database pre 1850
       </p>
-      <br />
+      <br /><br /><br />
       <g-link
         class="text-white hover:text-yellow-500"
         to="https://bit.ly/2KBFjIq"

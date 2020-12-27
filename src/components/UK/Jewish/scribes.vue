@@ -2,22 +2,22 @@
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
       <h1 class="text-2xl text-white">
-        1851 Community
+        Scribes
       </h1>
 
-      <g-image
+       <g-image
         class="h-32 w-full object-fill"
-        src="https://res.cloudinary.com/dzhbfdfa5/image/upload/v1607248969/database_l8siob.jpg"
-        alt="image of a database"
+        src="@/images/europe/graves.jpg"
+        alt="image of graves"
       />
       <br />
       <p>
-          1851 Anglo jewry database
+        Search the database of <br />headstone inscriptions<br /> from Jewish cemeteries<br /> throughout the UK.
       </p>
-      <br /><br /><br /><br />
+      <br />
       <g-link
         class="text-white hover:text-yellow-500"
-        to="https://bit.ly/3f0oGUE"
+        to="http://bit.ly/2WLa4AD"
       >
         More Info
       </g-link>

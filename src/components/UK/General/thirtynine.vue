@@ -19,7 +19,7 @@
       <br />
       <g-link
         class="text-white hover:text-yellow-500"
-        to="http://bit.ly/2L2exrF"
+        to="http://bit.ly/2IjAKzA"
       >
         More Info
       </g-link>

@@ -26,7 +26,12 @@
       </div>
 
       <div class="grid sm:flex">
+        <scribes />
+        <scribessyn />
         <fifty />
+         </div>
+
+      <div class="grid sm:flex">
         <fiftyone />
       </div>
 
@@ -77,6 +82,8 @@ import marriage from "@/components/UK/Jewish/marriage";
 import army from "@/components/UK/Jewish/army";
 import fifty from "@/components/UK/Jewish/fifty";
 import fiftyone from "@/components/UK/Jewish/fiftyone";
+import scribes from "@/components/UK/Jewish/scribes";
+import scribessyn from "@/components/UK/Jewish/scribessyn";
 
 import adath from "@/components/UK/Jewish/Cemeteries/adath";
 import fed from "@/components/UK/Jewish/Cemeteries/fed";
@@ -109,6 +116,8 @@ export default {
     army,
     marriage,
     fifty,
+    scribes,
+    scribessyn,
     fiftyone,
     dropdown,
     
