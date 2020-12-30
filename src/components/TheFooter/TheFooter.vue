@@ -1,7 +1,7 @@
 <template>
   <div class="p-2 bg-teal-500 w-full h-full flex">
     <h1 class="text-left">© 2020 Family History</h1>
-  
+
     <!--
    <g-link href="https://bit.ly/3fW92ZK" target="_blank"
       ><g-image
@@ -24,13 +24,14 @@
         alt = "printress@visitlonson247"
     /></g-link>
 -->
-    
-       <g-link class="ml-10  w-6 display:inline-grid" href="http://bit.ly/3nS0tUP" target="_blank"
-      ><g-image
-        src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1608989313/youtube_k4uh6z.jpg"
-        alt = "youtube"
-    /></g-link>
 
-      
+    <g-link
+      class="ml-10 w-6 display:inline-grid"
+      href="http://bit.ly/3nS0tUP"
+      target="_blank"
+      ><g-image
+        src="https://res.cloudinary.com/dzhbfdfa5/image/upload/v1608989313/youtube_k4uh6z.jpg"
+        alt="youtube link"
+    /></g-link>
   </div>
 </template>
