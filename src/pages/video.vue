@@ -8,6 +8,7 @@
 
         <div class="grid sm:flex">
           <marriage />
+          <naturalization />
           
         </div>
 
@@ -25,6 +26,7 @@
 
 <script>
 import marriage from "@/components/Video/marriage";
+import naturalization from "@/components/Video/naturalization";
 
 import dropdown from "@/components/Dropdown/dropdown";
 import translate from "@/components/Dropdown/translate";
@@ -43,6 +45,7 @@ export default {
   },
   components: {
     marriage,
+    naturalization,
     dropdown,
     translate,
   },
