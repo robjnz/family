@@ -7,6 +7,7 @@
         </h1>
 
         <div class="grid sm:flex">
+          <burial />
           <marriage />
           <naturalization />
           
@@ -27,6 +28,7 @@
 <script>
 import marriage from "@/components/Video/marriage";
 import naturalization from "@/components/Video/naturalization";
+import burial from "@/components/Video/burial";
 
 import dropdown from "@/components/Dropdown/dropdown";
 import translate from "@/components/Dropdown/translate";
@@ -45,6 +47,7 @@ export default {
   },
   components: {
     marriage,
+    burial,
     naturalization,
     dropdown,
     translate,
