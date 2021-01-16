@@ -7,12 +7,10 @@
         </h1>
 
         <div class="grid sm:flex">
-          <burial />
           <marriage />
+          <burial />
           <naturalization />
-          
         </div>
-
 
         <br />
 
@@ -33,15 +31,13 @@ import burial from "@/components/Video/burial";
 import dropdown from "@/components/Dropdown/dropdown";
 import translate from "@/components/Dropdown/translate";
 
-
 export default {
   metaInfo: {
     title: "video's",
     meta: [
       {
         name: "description",
-        content:
-          "Youtube Family history video's",
+        content: "Youtube Family history video's",
       },
     ],
   },

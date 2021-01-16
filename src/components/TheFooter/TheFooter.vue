@@ -1,6 +1,6 @@
 <template>
   <div class="p-2 bg-teal-500 w-full h-full flex">
-    <h1 class="text-left">© 2020 Family History</h1>
+    <h1 class="text-left">© 2021 Family History</h1>
 
     <!--
    <g-link href="https://bit.ly/3fW92ZK" target="_blank"
