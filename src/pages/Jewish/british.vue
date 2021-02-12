@@ -33,6 +33,8 @@
 
       <div class="grid sm:flex">
         <fiftyone />
+        <scotish />
+        <glasgow />
       </div>
 
       <br />
@@ -84,6 +86,8 @@ import fifty from "@/components/UK/Jewish/fifty";
 import fiftyone from "@/components/UK/Jewish/fiftyone";
 import scribes from "@/components/UK/Jewish/scribes";
 import scribessyn from "@/components/UK/Jewish/scribessyn";
+import scotish from "@/components/UK/Jewish/scotish";
+import glasgow from "@/components/UK/Jewish/glasgow";
 
 import adath from "@/components/UK/Jewish/Cemeteries/adath";
 import fed from "@/components/UK/Jewish/Cemeteries/fed";
@@ -119,6 +123,8 @@ export default {
     scribes,
     scribessyn,
     fiftyone,
+    scotish,
+    glasgow,
     dropdown,
     
   },

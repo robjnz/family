@@ -40,6 +40,7 @@
       <div class="grid sm:flex">
         <workhouse />
         <thirtynine />
+        <scotland />
       </div>
 
       <p>
@@ -80,6 +81,7 @@ import trade from "@/components/UK/General/trade";
 import workhouse from "@/components/UK/General/workhouse";
 import children from "@/components/UK/General/children";
 import industral from "@/components/UK/General/industral";
+import scotland from "@/components/UK/General/scotland";
 
 import dropdown from "@/components/Dropdown/dropdown";
 
@@ -109,6 +111,7 @@ export default {
     workhouse,
     children,
     industral,
+    scotland,
     dropdown,
   },
 };
