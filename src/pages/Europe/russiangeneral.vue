@@ -33,6 +33,7 @@
 
       <div class="grid sm:flex">
         <temples />
+        <firstwar />
       </div>
     </div>
 
@@ -68,6 +69,8 @@ import military from "@/components/Russia/General/military";
 import temples from "@/components/Russia/General/temples";
 import soviet from "@/components/Russia/General/soviet";
 import hero from "@/components/Russia/Jewish/hero";
+import firstwar from "@/components/Russia/General/firstwar";
+
 import dropdown from "@/components/Dropdown/dropdown";
 
 export default {
@@ -92,6 +95,7 @@ export default {
     soviet,
     temples,
     hero,
+    firstwar,
     dropdown,
   },
 };
