@@ -17,10 +17,17 @@
         <weiner />
         <sig />
         <belarusjewish />
-
-        <br />
       </div>
+
+         <div class="grid sm:flex">
+        <mogilev />
+        
+      </div>
+        
     </div>
+        <br />
+      
+    
     <p>
       <dropdown />
       
@@ -48,11 +55,13 @@
 import weiner from "@/components/Belarus/Jewish/weiner";
 import sig from "@/components/Belarus/Jewish/sig";
 import belarusjewish from "@/components/Belarus/Jewish/belarusjewish";
+import mogilev from "@/components/Belarus/Jewish/mogilev";
+
 import dropdown from "@/components/Dropdown/dropdown";
 
 export default {
   metaInfo: {
-    title: "Austria Jewish",
+    title: "Belarus Jewish",
     meta: [
       {
         name: "description",
@@ -64,6 +73,7 @@ export default {
     weiner,
     sig,
     belarusjewish,
+    mogilev,
     dropdown,
   },
 };
