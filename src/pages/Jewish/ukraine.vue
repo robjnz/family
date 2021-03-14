@@ -1,53 +1,57 @@
 <template>
   <Layout>
     <section class="px-32 py-14 overflow-auto">
-    <div id="background" class="container m-auto">
-      <h1 class="ml-8 mt-3 sub-title">
-        <g-image
-          class="h-10 w-12 inline-block"
-          src="@/images/europe/ukraine-flag.jpg"
-          alt="ukraine flag"
-        />
-        Ukraine Jewish Family History Resourses
-      </h1>
+      <div id="background" class="container m-auto">
+        <h1 class="ml-8 mt-3 sub-title">
+          <g-image
+            class="h-10 w-12 inline-block"
+            src="@/images/europe/ukraine-flag.jpg"
+            alt="ukraine flag"
+          />
+          Ukraine Jewish Family History Resourses
+        </h1>
+
+        <br />
+
+        <div class="grid sm:flex">
+          <dnipropetrovsk />
+          <memorial />
+          <dnipro />
+        </div>
+
+        <div class="grid sm:flex">
+          <moved />
+          <drobytsky />
+          <mogilev />
+        </div>
+          <div class="grid sm:flex">
+            <mohyliv />
+            <skala />
+            <gen />
+          </div>
+        
+
+        <div class="grid sm:flex">
+          <kehilalinks />
+        </div>
+      </div>
+      <p>
+        <dropdown />
+      </p>
+      <br />
+      <p>
+        Add
+        <g-link
+          class="text-red-600 hover:text-yellow-600"
+          to="http://bit.ly/2SxWdgt"
+          target="_blank"
+        >
+          google translate
+        </g-link>
+        to your browser extensions, to view foreign language web sites.
+      </p>
 
       <br />
-
-      <div class="grid sm:flex">
-        <dnipropetrovsk />
-        <memorial />
-        <dnipro />
-      </div>
-
-      <div class="grid sm:flex">
-        <moved />
-        <mogilev />
-        <mohyliv />
-      </div>
-
-      <div class="grid sm:flex">
-        <skala />
-        <gen />
-        <kehilalinks />
-      </div>
-    </div>
-    <p>
-      <dropdown />
-    </p>
-    <br />
-    <p>
-      Add
-      <g-link
-        class="text-red-600 hover:text-yellow-600"
-        to="http://bit.ly/2SxWdgt"
-        target="_blank"
-      >
-        google translate
-      </g-link>
-      to your browser extensions, to view foreign language web sites.
-    </p>
-
-    <br />
     </section>
   </Layout>
 </template>
@@ -62,6 +66,8 @@ import mohyliv from "@/components/Ukraine/Jewish/mohyliv";
 import skala from "@/components/Ukraine/Jewish/skala";
 import gen from "@/components/Ukraine/Jewish/gen";
 import kehilalinks from "@/components/Ukraine/Jewish/kehilalinks";
+import drobytsky from "@/components/Ukraine/Jewish/drobytsky";
+
 import dropdown from "@/components/Dropdown/dropdown";
 
 export default {
@@ -84,6 +90,7 @@ export default {
     mohyliv,
     skala,
     gen,
+    drobytsky,
     kehilalinks,
     dropdown,
   },

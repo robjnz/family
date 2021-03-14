@@ -12,7 +12,7 @@
       />
       <br />
       <p>Mogilev in the<br /> Dnipropetrovsk region</p>
-      <br /><br />
+      <br /><br /><br /><br /><br /><br />
       <g-link
         class="text-white hover:text-yellow-500"
         to="http://bit.ly/2rqQ6vP"

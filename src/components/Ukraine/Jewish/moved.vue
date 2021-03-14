@@ -12,7 +12,7 @@
       />
       <br />
       <p>List of jews resettled from <br />Raseinai to Dnipropetrovsk<br /> (Ekaterinoslav) in 1847</p>
-      <br />
+      <br /><br /><br /><br /><br />
       <g-link
         class="text-white hover:text-yellow-500"
         to="http://bit.ly/2FNmH3v"
