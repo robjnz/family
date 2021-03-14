@@ -20,6 +20,7 @@
 
         <div class="grid sm:flex">
           <heritage />
+          <prisoners />
         </div>
 
         <br />
@@ -88,6 +89,7 @@ import ahnenblatt from "@/components/General/ahnenblatt";
 import shtetl from "@/components/General/shtetl";
 import transkribus from "@/components/General/transkribus";
 import heritage from "@/components/General/heritage";
+import prisoners from "@/components/General/prisoners";
 
 import dropdown from "@/components/Dropdown/dropdown";
 import translate from "@/components/Dropdown/translate";
@@ -122,6 +124,7 @@ export default {
     shtetl,
     transkribus,
     heritage,
+    prisoners,
     dropdown,
     translate,
   },
