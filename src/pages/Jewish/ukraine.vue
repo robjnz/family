@@ -24,14 +24,14 @@
           <drobytsky />
           <mogilev />
         </div>
-          <div class="grid sm:flex">
-            <mohyliv />
-            <skala />
-            <gen />
-          </div>
-        
+        <div class="grid sm:flex">
+          <mohyliv />
+          <odessa />
+          <skala />
+        </div>
 
         <div class="grid sm:flex">
+          <gen />
           <kehilalinks />
         </div>
       </div>
@@ -67,6 +67,7 @@ import skala from "@/components/Ukraine/Jewish/skala";
 import gen from "@/components/Ukraine/Jewish/gen";
 import kehilalinks from "@/components/Ukraine/Jewish/kehilalinks";
 import drobytsky from "@/components/Ukraine/Jewish/drobytsky";
+import odessa from "@/components/Ukraine/Jewish/odessa";
 
 import dropdown from "@/components/Dropdown/dropdown";
 
@@ -92,6 +93,7 @@ export default {
     gen,
     drobytsky,
     kehilalinks,
+    odessa,
     dropdown,
   },
 };
