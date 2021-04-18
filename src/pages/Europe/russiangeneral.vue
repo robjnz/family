@@ -22,16 +22,17 @@
       <div class="grid sm:flex">
         <forebears />
         <hero />
-        <family />
+        <leningrad />
       </div>
 
       <div class="grid sm:flex">
+        <family />
         <awards />
         <military />
-        <soviet />
       </div>
 
       <div class="grid sm:flex">
+        <soviet />
         <temples />
         <firstwar />
       </div>
@@ -70,6 +71,8 @@ import temples from "@/components/Russia/General/temples";
 import soviet from "@/components/Russia/General/soviet";
 import hero from "@/components/Russia/Jewish/hero";
 import firstwar from "@/components/Russia/General/firstwar";
+import leningrad from "@/components/Russia/General/leningrad";
+
 
 import dropdown from "@/components/Dropdown/dropdown";
 
@@ -96,6 +99,7 @@ export default {
     temples,
     hero,
     firstwar,
+    leningrad,
     dropdown,
   },
 };
