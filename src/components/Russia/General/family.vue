@@ -7,7 +7,7 @@
      
         <g-image 
           class = "h-32 w-full object-fill"
-          src   = "@/images/europe/family-tree.jpg"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1618760842/family-tree_qzej89.jpg"
           alt = "family tree photo"
       />
        <br />

@@ -7,7 +7,7 @@
 
       <g-image
         class="h-32 w-full object-fill"
-        src="@/images/europe/ancestry.jpg"
+        src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1618761643/ancestry_jslwb0.jpg"
         alt="image of ancestry logo"
       />
       <br />

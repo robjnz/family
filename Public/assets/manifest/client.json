@@ -2,38 +2,38 @@
   "publicPath": "/",
   "all": [
     "assets/css/0.styles.cb11aeb4.css",
-    "assets/js/app.946901b7.js",
+    "assets/js/app.faf878ba.js",
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.a72bffee.js",
     "assets/js/page--src-pages-about-vue.5c3e288b.js",
     "assets/js/page--src-pages-australasia-australiageneral-vue.63bdd331.js",
     "assets/js/page--src-pages-australasia-newzealandgeneral-vue.d4ab1e4e.js",
     "assets/js/page--src-pages-australasia-vue.eed9e90b.js",
     "assets/js/page--src-pages-blog-vue.37a2f4de.js",
-    "assets/js/page--src-pages-caribbean-barbadosgeneral-vue.d732643d.js",
+    "assets/js/page--src-pages-caribbean-barbadosgeneral-vue.c91867f4.js",
     "assets/js/page--src-pages-caribbean-burmudageneral-vue.9bb3d6a2.js",
     "assets/js/page--src-pages-caribbean-vue.3af9b55d.js",
     "assets/js/page--src-pages-contact-vue.b56000bd.js",
     "assets/js/page--src-pages-europe-austriangeneral-vue.098316c7.js",
     "assets/js/page--src-pages-europe-belarusgeneral-vue.b88fb34c.js",
-    "assets/js/page--src-pages-europe-belgiumgeneral-vue.f0e56d92.js",
+    "assets/js/page--src-pages-europe-belgiumgeneral-vue.2bd9b0c0.js",
     "assets/js/page--src-pages-europe-britishgeneral-vue.a040a0cf.js",
     "assets/js/page--src-pages-europe-frenchgeneral-vue.1ee4fa9b.js",
-    "assets/js/page--src-pages-europe-irelandgeneral-vue.0000defa.js",
-    "assets/js/page--src-pages-europe-netherlandsgeneral-vue.38fb322b.js",
-    "assets/js/page--src-pages-europe-russiangeneral-vue.abb6c9b9.js",
-    "assets/js/page--src-pages-europe-ukrainegeneral-vue.779b8bc9.js",
+    "assets/js/page--src-pages-europe-irelandgeneral-vue.062e537b.js",
+    "assets/js/page--src-pages-europe-netherlandsgeneral-vue.df8a4699.js",
+    "assets/js/page--src-pages-europe-russiangeneral-vue.6198b651.js",
+    "assets/js/page--src-pages-europe-ukrainegeneral-vue.5a94b78f.js",
     "assets/js/page--src-pages-europe-vue.1ab6c12f.js",
-    "assets/js/page--src-pages-general-vue.2ef41c76.js",
+    "assets/js/page--src-pages-general-vue.90efead4.js",
     "assets/js/page--src-pages-index-vue.f557dda8.js",
     "assets/js/page--src-pages-jewish-america-vue.cc5de492.js",
-    "assets/js/page--src-pages-jewish-australia-vue.e7e82dc4.js",
+    "assets/js/page--src-pages-jewish-australia-vue.383cfefd.js",
     "assets/js/page--src-pages-jewish-austria-vue.7ea14d2d.js",
     "assets/js/page--src-pages-jewish-belarus-vue.218d030f.js",
     "assets/js/page--src-pages-jewish-british-vue.edec4844.js",
     "assets/js/page--src-pages-jewish-canada-vue.f2482dc9.js",
     "assets/js/page--src-pages-jewish-ireland-vue.3729d3fa.js",
     "assets/js/page--src-pages-jewish-netherlands-vue.bb11e8b9.js",
-    "assets/js/page--src-pages-jewish-newzealand-vue.db63d0cd.js",
+    "assets/js/page--src-pages-jewish-newzealand-vue.6a2d20bb.js",
     "assets/js/page--src-pages-jewish-russia-vue.3b891a91.js",
     "assets/js/page--src-pages-jewish-ukraine-vue.2aa29ec1.js",
     "assets/js/page--src-pages-northamerica-americangeneral-vue.4bbcde3d.js",
@@ -45,7 +45,7 @@
   ],
   "initial": [
     "assets/css/0.styles.cb11aeb4.css",
-    "assets/js/app.946901b7.js"
+    "assets/js/app.faf878ba.js"
   ],
   "async": [
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.a72bffee.js",
@@ -54,31 +54,31 @@
     "assets/js/page--src-pages-australasia-newzealandgeneral-vue.d4ab1e4e.js",
     "assets/js/page--src-pages-australasia-vue.eed9e90b.js",
     "assets/js/page--src-pages-blog-vue.37a2f4de.js",
-    "assets/js/page--src-pages-caribbean-barbadosgeneral-vue.d732643d.js",
+    "assets/js/page--src-pages-caribbean-barbadosgeneral-vue.c91867f4.js",
     "assets/js/page--src-pages-caribbean-burmudageneral-vue.9bb3d6a2.js",
     "assets/js/page--src-pages-caribbean-vue.3af9b55d.js",
     "assets/js/page--src-pages-contact-vue.b56000bd.js",
     "assets/js/page--src-pages-europe-austriangeneral-vue.098316c7.js",
     "assets/js/page--src-pages-europe-belarusgeneral-vue.b88fb34c.js",
-    "assets/js/page--src-pages-europe-belgiumgeneral-vue.f0e56d92.js",
+    "assets/js/page--src-pages-europe-belgiumgeneral-vue.2bd9b0c0.js",
     "assets/js/page--src-pages-europe-britishgeneral-vue.a040a0cf.js",
     "assets/js/page--src-pages-europe-frenchgeneral-vue.1ee4fa9b.js",
-    "assets/js/page--src-pages-europe-irelandgeneral-vue.0000defa.js",
-    "assets/js/page--src-pages-europe-netherlandsgeneral-vue.38fb322b.js",
-    "assets/js/page--src-pages-europe-russiangeneral-vue.abb6c9b9.js",
-    "assets/js/page--src-pages-europe-ukrainegeneral-vue.779b8bc9.js",
+    "assets/js/page--src-pages-europe-irelandgeneral-vue.062e537b.js",
+    "assets/js/page--src-pages-europe-netherlandsgeneral-vue.df8a4699.js",
+    "assets/js/page--src-pages-europe-russiangeneral-vue.6198b651.js",
+    "assets/js/page--src-pages-europe-ukrainegeneral-vue.5a94b78f.js",
     "assets/js/page--src-pages-europe-vue.1ab6c12f.js",
-    "assets/js/page--src-pages-general-vue.2ef41c76.js",
+    "assets/js/page--src-pages-general-vue.90efead4.js",
     "assets/js/page--src-pages-index-vue.f557dda8.js",
     "assets/js/page--src-pages-jewish-america-vue.cc5de492.js",
-    "assets/js/page--src-pages-jewish-australia-vue.e7e82dc4.js",
+    "assets/js/page--src-pages-jewish-australia-vue.383cfefd.js",
     "assets/js/page--src-pages-jewish-austria-vue.7ea14d2d.js",
     "assets/js/page--src-pages-jewish-belarus-vue.218d030f.js",
     "assets/js/page--src-pages-jewish-british-vue.edec4844.js",
     "assets/js/page--src-pages-jewish-canada-vue.f2482dc9.js",
     "assets/js/page--src-pages-jewish-ireland-vue.3729d3fa.js",
     "assets/js/page--src-pages-jewish-netherlands-vue.bb11e8b9.js",
-    "assets/js/page--src-pages-jewish-newzealand-vue.db63d0cd.js",
+    "assets/js/page--src-pages-jewish-newzealand-vue.6a2d20bb.js",
     "assets/js/page--src-pages-jewish-russia-vue.3b891a91.js",
     "assets/js/page--src-pages-jewish-ukraine-vue.2aa29ec1.js",
     "assets/js/page--src-pages-northamerica-americangeneral-vue.4bbcde3d.js",
@@ -386,9 +386,6 @@
     "1afd23da": [
       1
     ],
-    "8f50adce": [
-      22
-    ],
     "61eb858e": [
       1
     ],
@@ -620,9 +617,6 @@
     "6ba1d2c2": [
       11
     ],
-    "692f034b": [
-      14
-    ],
     "2128c187": [
       2
     ],
@@ -637,6 +631,9 @@
     ],
     "7af74d18": [
       25
+    ],
+    "535f5866": [
+      19
     ],
     "99ff3b26": [
       1
