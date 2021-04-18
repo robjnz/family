@@ -7,8 +7,8 @@
 
       <g-image
         class="h-32 w-full object-fill"
-        src="@/images/europe/archives.jpg"
-        alt="austria flag"
+        src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1618762256/archives_nndpbn.jpg"
+        alt="austria archives"
       />
       <br />
       <p>Australian State Archives</p>
