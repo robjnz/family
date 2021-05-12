@@ -13,8 +13,8 @@
     "autoprefixer": "^10.2.5",
     "gridsome": "^0.7.0",
     "gridsome-plugin-gtm": "^0.1.1",
-    "postcss": "^8.2.13",
-    "postcss-import": "^14.0.1",
+    "postcss": "^8.2.15",
+    "postcss-import": "^14.0.2",
     "postcss-preset-env": "^6.7.0"
   },
   "devDependencies": {

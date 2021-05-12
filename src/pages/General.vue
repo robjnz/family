@@ -51,12 +51,15 @@
 
         <div class="grid sm:flex">
           <ahnenblatt />
+          <date />
           <cyrillic />
-          <print />
-        </div>
+          </div>
         <div class="grid sm:flex">
+          <print />
           <hebrew />
           <shtetl />
+          </div>
+        <div class="grid sm:flex">
           <transkribus />
         </div>
 
@@ -90,6 +93,7 @@ import shtetl from "@/components/General/shtetl";
 import transkribus from "@/components/General/transkribus";
 import heritage from "@/components/General/heritage";
 import prisoners from "@/components/General/prisoners";
+import date from "@/components/General/date";
 
 import dropdown from "@/components/Dropdown/dropdown";
 import translate from "@/components/Dropdown/translate";
@@ -127,6 +131,7 @@ export default {
     prisoners,
     dropdown,
     translate,
+    date,
   },
 };
 </script>

@@ -2,20 +2,20 @@
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
       <h1 class="text-2xl text-white">
-        Ahnenblatt
+        Convert Date
       </h1>
 
       <g-image
         class="h-32 w-full object-fill"
-        src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1618760842/family-tree_qzej89.jpg"
+        src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1620813185/hebrew_calendar_eccuiw.jpg"
         alt="image of a family tree"
       />
       <br />
-      <p>Genealogy software.</p>
-      <br /><br />
+      <p>Convert the date from <br />Gregorian to a Hebrew date.</p>
+      <br />
       <g-link
         class="text-white hover:text-yellow-500"
-        to="https://bit.ly/3lV1E4S"
+        to="https://bit.ly/3y7d9g4"
       >
         More Info
       </g-link>
