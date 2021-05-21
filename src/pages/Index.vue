@@ -6,6 +6,7 @@
     >
       <div class="p-6">
         <h1 class="page-title">Welcome to Family History</h1>
+        
         <div class="content">
           <p class="text-gray-800 text-3xl">
             Researching your family history, what information is out there and
@@ -37,9 +38,11 @@
               <li>Naturalisation records</li>
               <li>Trade Directories</li>
             </ul>
+            
           </div>
-
-          <br /><br />
+           <dropdown />
+          
+          
         </div>
       </div>
     </section>
@@ -47,6 +50,9 @@
 </template>
 
 <script>
+
+import dropdown from "@/components/Dropdown/dropdown";
+
 export default {
   metaInfo: {
     title: "Home",
@@ -58,6 +64,8 @@ export default {
       },
     ],
   },
-  components: {},
+  components: {
+       dropdown,
+  },
 };
 </script>
