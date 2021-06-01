@@ -38,6 +38,7 @@
         </div>
 
         <div class="grid sm:flex">
+          <jri />
           <roots />
         </div>
 
@@ -93,6 +94,8 @@ import shtetl from "@/components/General/shtetl";
 import transkribus from "@/components/General/transkribus";
 import heritage from "@/components/General/heritage";
 import prisoners from "@/components/General/prisoners";
+import jri from "@/components/General/jri";
+
 import date from "@/components/General/date";
 
 import dropdown from "@/components/Dropdown/dropdown";
@@ -131,6 +134,7 @@ export default {
     prisoners,
     dropdown,
     translate,
+    jri,
     date,
   },
 };

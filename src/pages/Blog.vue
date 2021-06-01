@@ -7,12 +7,16 @@
       <h1 class="page-title text-center">Blog</h1>
 
       <BlogPostList :posts="$page.posts.edges" />
+
+      <dropdown />
     </section>
   </Layout>
 </template>
 
 <script>
 import BlogPostList from "~/components/BlogPostList.vue";
+import dropdown from "@/components/Dropdown/dropdown";
+
 
 export default {
   metaInfo: {
@@ -20,6 +24,7 @@ export default {
   },
   components: {
     BlogPostList,
+    dropdown,
   },
 };
 </script>

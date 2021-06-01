@@ -39,10 +39,15 @@
         >Read article</g-link
       >
     </div>
+
+    
   </section>
 </template>
 
 <script>
+
+
+
 export default {
   metaInfo: {
     title: "blog posts",
@@ -53,8 +58,10 @@ export default {
       },
     ],
   },
+ 
   props: ["posts"],
 };
+ 
 </script>
 
 <style>
