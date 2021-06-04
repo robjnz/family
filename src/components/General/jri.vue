@@ -12,7 +12,7 @@
       />
        <br />
       <p>Free Jewish Genealogy <br />Records & Resourses.</p>
-       <br />
+       <br /><br />
       <g-link
           class  = "text-white hover:text-yellow-500"
           to     = "https://bit.ly/3paTOpZ">
