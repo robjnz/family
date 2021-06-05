@@ -12,6 +12,10 @@
           <naturalization />
         </div>
 
+        <div class="grid sm:flex">
+          <oneninetwo />
+        </div>
+
         <br />
 
         <dropdown />
@@ -27,6 +31,7 @@
 import marriage from "@/components/Video/marriage";
 import naturalization from "@/components/Video/naturalization";
 import burial from "@/components/Video/burial";
+import oneninetwo from "@/components/Video/oneninetwo";
 
 import dropdown from "@/components/Dropdown/dropdown";
 import translate from "@/components/Dropdown/translate";
@@ -45,6 +50,7 @@ export default {
     marriage,
     burial,
     naturalization,
+    oneninetwo,
     dropdown,
     translate,
   },
