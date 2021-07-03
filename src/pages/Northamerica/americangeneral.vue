@@ -12,6 +12,7 @@
         </h1>
 
         <div class="grid sm:flex">
+          <intelius />
           <state />
           <war />
         </div>
@@ -72,6 +73,8 @@ import passenger from "@/components/America/General/passenger";
 import ellis from "@/components/America/General/ellis";
 import york from "@/components/America/General/york";
 import marriage from "@/components/America/General/marriage";
+import intelius from "@/components/America/General/intelius";
+
 
 import dropdown from "@/components/Dropdown/dropdown";
 
@@ -95,6 +98,7 @@ export default {
     ellis,
     york,
     marriage,
+    intelius,
 
     dropdown,
   },
