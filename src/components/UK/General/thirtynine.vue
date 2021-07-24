@@ -13,7 +13,7 @@
 
       <br />
       <p>
-        Search the 1939 pre war census register <br />also avaliable on
+        Search the 1939 <br />pre war census register <br />also avaliable on
         Ancestry.
       </p>
       <br />
