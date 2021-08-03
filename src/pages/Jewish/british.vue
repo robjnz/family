@@ -14,26 +14,30 @@
       <br />
 
       <div class="grid sm:flex">
+        <directory />
         <jc />
         <jcr />
-        <jfs />
-      </div>
+       </div>
 
       <div class="grid sm:flex">
+         <jfs />
         <first />
         <marriage />
-        <army />
-      </div>
+        </div>
 
       <div class="grid sm:flex">
+        <army />
         <scribes />
         <scribessyn />
-        <fifty />
-         </div>
+        </div>
 
       <div class="grid sm:flex">
+        <fifty />
         <fiftyone />
         <scotish />
+      </div>
+        
+      <div class="grid sm:flex">
         <glasgow />
       </div>
 
@@ -95,6 +99,7 @@ import liberal from "@/components/UK/Jewish/Cemeteries/liberal";
 import united from "@/components/UK/Jewish/Cemeteries/united";
 import western from "@/components/UK/Jewish/Cemeteries/western";
 import dropdown from "@/components/Dropdown/dropdown";
+import directory from '@/components/UK/Jewish/directory';
 
 export default {
   metaInfo: {
@@ -126,6 +131,7 @@ export default {
     scotish,
     glasgow,
     dropdown,
+    directory,
     
   },
 };

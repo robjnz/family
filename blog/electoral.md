@@ -35,7 +35,7 @@ The register can tell you:
   this is important as not everybody is married or appears on the online marriage register.
 - Names of children who may not appear on the online birth register.
 - If they are directors of a company, this is useful as you can then look them up on at
-  [<span style="color:blue">companies house register </span>](https://bit.ly/3wuGUp6)
+  [<span style="color:blue">companies house register </span>](https://bit.ly/3poS64b)
 
 ## The cost of using 192.com the uk electoral register online
 

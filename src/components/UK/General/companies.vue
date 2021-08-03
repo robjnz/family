@@ -7,7 +7,7 @@
 
       <g-image
         class="h-32 w-full object-fill"
-        src="@/images/europe/companies.jpg"
+        src="https://res.cloudinary.com/dzhbfdfa5/image/upload/v1627315634/companies_mryctb.jpg"
         alt="companies house logo photo"
       />
       <br />
@@ -22,6 +22,14 @@
         allowfullscreen
       ></iframe>
       <br />
+       <g-link
+        class="text-white hover:text-yellow-500"
+        to="/blog/how-to-use-companies-house-records-for-family-history-research/"
+        target="_blank"
+      >
+        Read Article
+      </g-link>
+      <br>
       <g-link
         class="text-white hover:text-yellow-500"
         to="https://bit.ly/3poS64b"
